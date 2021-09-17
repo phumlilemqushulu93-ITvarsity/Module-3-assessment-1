@@ -231,8 +231,4 @@ body{
         background-image: url('images/background-02-land.png');
 
     }
-} 
-
-fa-chevron-right::before {
-    content: "\f054";
-}
+}  
